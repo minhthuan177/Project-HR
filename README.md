@@ -8,5 +8,5 @@ Về dataset: HR_capstone_dataset.csv
 
 Kết quả:
 - Python notebook: Project.ipynb
--> Xuất Project.HTML
+-> Xuất kết quả Project.HTML
 - File pickle của mô hình: hr_rf1.pickle
